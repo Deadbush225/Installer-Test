@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Online Installer</Name>
+    <Version>1.0.0</Version>
+    <Title>Online Installer</Title>
+    <Publisher>deadbush25</Publisher>
+    <StartMenuDir>Online Installer</StartMenuDir>
+    <TargetDir>@ApplicationsDirX64@/Online Installer</TargetDir>
+    <RemoteRepositories>
+        <Repository>
+            <Url>https://raw.githubusercontent.com/Deadbush225/DownloadSorter/main/repository/Updates.xml</Url>
+            <Enabled>1</Enabled>
+        </Repository>
+    </RemoteRepositories>
+</Installer>

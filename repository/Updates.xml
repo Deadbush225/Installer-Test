@@ -1,0 +1,18 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.root</Name>
+  <DisplayName>Download Sorter</DisplayName>
+  <Description>Main program</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2019-09-21</ReleaseDate>
+  <Default>script</Default>
+  <UpdateFile CompressedSize="622" OS="Any" UncompressedSize="942"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>7fab595b0eb2acc29aa0c2602267c188b969ca19</SHA1>
+ </PackageUpdate>
+ <SHA1>f8ab2ac1867d15a80e86a6914dc7bcb5ac12fc0a</SHA1>
+ <MetadataName>2024-10-05-1357_meta.7z</MetadataName>
+</Updates>
